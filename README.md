@@ -36,7 +36,7 @@ The top of the page shows the current date. When the user scrolls down to the ti
 
 ## Screenshot
 
-![screenshot](https://github.com/TomFallon9/code-quiz/blob/main/assets/screenshot1.png)
+![screenshot](https://github.com/TomFallon9/code-quiz/blob/main/assets/screenshot11.png)
 
 
 ## Built With
