@@ -10,7 +10,7 @@ $(document).ready(function () {
    let date = moment().format("dddd, MMMM Do");
    $("#currentDay").text(date);
  
-   // Grabs current time
+   // gets current time
    let currentTime = moment().hours();
    
    // Checks if time-block is past, present, future
