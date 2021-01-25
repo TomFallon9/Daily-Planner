@@ -1,5 +1,7 @@
 <div align="center">
-# The Daily Planner App
+  
+#  The Daily Planner App
+  
 Built with HTML, CSS, Moment.js, and jQuery.
 
 
